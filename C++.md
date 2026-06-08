@@ -111,3 +111,14 @@ Modified greeting: Hello, C++!
 | find_last_of()      | 查找最后一个匹配任意字符的位置。               | `size_t pos = str.find_last_of("aeiou");`      |
 | find_first_not_of() | 查找第一个不匹配任意字符的位置。               | `size_t pos = str.find_first_not_of("aeiou");` |
 | find_last_not_of()  | 查找最后一个不匹配任意字符的位置。             | `size_t pos = str.find_last_not_of("aeiou");`  |
+
+## 哈希表
+
+哈希表（Hash Table），可以进行数据的插入，删除，查找，比数组的遍历（0（n））和二叉搜索树的搜索（0(log n)）快（0（1））(哈希表时间复杂度)
+
+| 操作     | 数组/链表 | 哈希表 |
+| :------- | :-------- | :----- |
+| 查找     | O(n)      | O(1)   |
+| 插入     | O(n)      | O(1)   |
+| 删除     | O(n)      | O(1)   |
+| 空间效率 | 高        | 中等   |

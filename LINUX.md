@@ -187,8 +187,6 @@ free -h          # 人类可读的内存统计
 cat /proc/meminfo
 ```
 
-
-
 查看某个进程的内存详情（RSS、VSZ等）：
 
 bash
@@ -196,7 +194,5 @@ bash
 ```
 ps -o pid,user,%mem,%cpu,rss,vsz,comm -p <PID>
 ```
-
-
 
 但实时动态监控，`top` 依然是最方便的选择。

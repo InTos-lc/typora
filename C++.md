@@ -122,3 +122,7 @@ Modified greeting: Hello, C++!
 | 插入     | O(n)      | O(1)   |
 | 删除     | O(n)      | O(1)   |
 | 空间效率 | 高        | 中等   |
+
+## 数据结构（C语言版）
+
+[personal_data/数据结构 at ab98a371126155f9ec2bbd1264fe9db052034920 · luoguangzhi/personal_data](https://github.com/luoguangzhi/personal_data/tree/ab98a371126155f9ec2bbd1264fe9db052034920/数据结构)

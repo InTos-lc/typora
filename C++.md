@@ -123,6 +123,14 @@ Modified greeting: Hello, C++!
 | 删除     | O(n)      | O(1)   |
 | 空间效率 | 高        | 中等   |
 
-## 数据结构（C语言版）
+## C++ Vector容器介绍
 
-[personal_data/数据结构 at ab98a371126155f9ec2bbd1264fe9db052034920 · luoguangzhi/personal_data](https://github.com/luoguangzhi/personal_data/tree/ab98a371126155f9ec2bbd1264fe9db052034920/数据结构)
+### 什么是vector
+
+向量（vector）是一个封装了动态大小数组的顺序容器（sequence Container）跟任意其他类型容器一样，能够存放各种类型的对象。可以简单地认为，向量是一个能够存放任意类型的动态数组。
+
+### 容器特性
+
+1. ##### 顺序序列
+
+   
